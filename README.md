@@ -37,7 +37,7 @@
 
  ## OUTPUT
  
- ![alt text](Ex1.2.png)
+ ![alt text](<EX - 1.2 Drawing_page-0001.jpg>)
  
  ## RESULT
  Thus the given sketch is drawn and drafted using fusion 360 tool.
